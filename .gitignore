@@ -1,0 +1,6 @@
+*.sw?
+*.backup
+tmp_*
+tags
+
+.idea/
